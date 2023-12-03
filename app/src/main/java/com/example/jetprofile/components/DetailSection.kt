@@ -29,7 +29,7 @@ fun DetailSection(){
         Spacer(modifier = Modifier.height(10.dp))
         Label(
             icon = Icons.Default.LocationOn,
-            text = "居住地：東京都墨田区堤通",
+            text = "居住地：東京都墨田区",
             color = Color.Gray
         )
     }
